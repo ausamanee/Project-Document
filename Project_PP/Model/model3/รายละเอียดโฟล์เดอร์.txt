@@ -1,0 +1,3 @@
+ตัดคำแบบ Pyton จำนวน 400 คน
+https://www.ranks.nl/stopwords/thai-stopwords อ้างอิง stop word
+นับคำแบบ Binary Trem Occerrant

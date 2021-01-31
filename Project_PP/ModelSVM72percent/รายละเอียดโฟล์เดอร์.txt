@@ -1,0 +1,9 @@
+ตัดคำแบบ Pyton จำนวน 400 คน
+https://www.ranks.nl/stopwords/thai-stopwords อ้างอิง stop word
+Model ที่ดีที่สุด svm 71%
+เลือกใช้แบบ Term Occurrences
+ใช้วิธีการ ให้น้ำหนัก โดย
+normal = 0.1
+minimal =0.2
+middle =0.3
+sever =0.4
